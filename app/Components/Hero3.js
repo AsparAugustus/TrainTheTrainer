@@ -16,7 +16,7 @@ const Hero3 = ({ children }) => {
                   Comprehensive Training Approach: Delve into the A-Z of effective training techniques, models, and strategies to ensure a true and lasting impact on your audience.
                 </li>
                 <li>
-                  Adaptable to Your Needs: Whether you're spearheading induction training for your company or aiming to deliver engaging sessions to your team, our program is flexible and can be adapted to suit your specific requirements.
+                  Adaptable to Your Needs: Whether you&apos;re spearheading induction training for your company or aiming to deliver engaging sessions to your team, our program is flexible and can be adapted to suit your specific requirements.
                 </li>
                 <li>
                   Skill Enhancement: Learn how to meticulously plan, expertly deliver, and thoughtfully evaluate your training sessions, ensuring a successful and enriching learning experience.
